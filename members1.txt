@@ -1,0 +1,10 @@
+Membership No  Date Joined  Gender  Active  Age
+    94597      2020-8-21    F       yes     61 
+    80641      2020-5-4     F       yes     47 
+    74089      2020-9-6     F       yes     60 
+    49963      2020-7-8     F       yes     64 
+    98056      2021-1-14    M       yes     46 
+    37704      2021-6-16    F       yes     25 
+    63801      2020-1-2     F       yes     46 
+    86382      2021-8-13    F       yes     57 
+    43193      2021-4-23    F       yes     40 
